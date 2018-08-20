@@ -25,8 +25,9 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Autonomous Vehicle Guide:
-    - History of Autonomous Vehicles: "History of Autonomous Driving"
-   
+    - History of Autonomous Vehicles: "history-of-autonomous-driving"
+    - Levels of Autonomy: 
+        -Example:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
