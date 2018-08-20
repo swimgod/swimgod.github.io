@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Autonomous Vehicle Guide: "#"
-    - History of Autonomous Vehicles: "History of Autonomous Driving"
+    - History of Autonomous Vehicles: "History-of-Autonomous-Driving"
     - Levels of Autonomy: "#"
     - Mobility as a Service: "#"
     - Sensors for Autonomous Driving: "#"
