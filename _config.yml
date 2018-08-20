@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutus"
+  About Us: "aboutme"
   Autonomous Vehicle Guide: 
     - History of Autonomous Vehicles: "History-of-Autonomous-Driving"
     - Levels of Autonomy: 
