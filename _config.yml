@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Autonomous Vehicle Guide:
-    - History of Autonomous Vehicles: /articles//History of Autonomous Vehicles.md/
+    - History of Autonomous Vehicles: "History of Autonomous Driving"
    
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -164,7 +164,7 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
-      path: "/articles" # all files
+      path: "" # all files
     values:
       layout: "page"
       show-avatar: true

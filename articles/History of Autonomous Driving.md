@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: History of Autonomous Driving
 permalink: /history-of-autonomous-driving/
 ---
