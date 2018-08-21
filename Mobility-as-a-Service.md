@@ -123,12 +123,12 @@ Depends if fleet is owned or sold individually. If the fleet is owned, refer to 
 
 <h4><strong>Fundamental Metrics to Track:</strong></h4>
 
-1. **Fleet Size:** scaling fleet size is a key revenue driver
+**1. Fleet Size:** scaling fleet size is a key revenue driver
 
-2. **Revenue per mile:** using the revenue models discussed above, companies should monitor their revenue per mile and benchmark how that number is trending over to time to adjust pricing appropriately.
-
-
-3. **Cost per mile:** built up of a number of key components that should also be calculated on a per mile basis including vehicle cost, depreciation, insurance, maintenance and fuel per mile costs. Summing these up provide an accurate approximation of cost per mile.
+**2. Revenue per mile:** using the revenue models discussed above, companies should monitor their revenue per mile and benchmark how that number is trending over to time to adjust pricing appropriately.
 
 
-4. **Profit per mile:** Calculated as the difference between Revenue per mile and Cost per mile. Important in monitoring profitability. Companies should also look at various scenarios including current profit model vs. scaled profit model (what they hope to achieve in the future)
+**3. Cost per mile:** built up of a number of key components that should also be calculated on a per mile basis including vehicle cost, depreciation, insurance, maintenance and fuel per mile costs. Summing these up provide an accurate approximation of cost per mile.
+
+
+**4. Profit per mile:** Calculated as the difference between Revenue per mile and Cost per mile. Important in monitoring profitability. Companies should also look at various scenarios including current profit model vs. scaled profit model (what they hope to achieve in the future)
