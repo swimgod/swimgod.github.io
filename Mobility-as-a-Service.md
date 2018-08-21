@@ -9,6 +9,8 @@ Mobility-as-a-Service represents a shift from personally owned modes of transpor
 
 <h3><strong>Potential AV(Autonomous Vehicles) Business Models:</strong></h3>
 
+---
+
 <h4><strong>Ridesharing/Taxis:</strong></h4>
 
 **Autonomous Readiness:**
@@ -28,6 +30,8 @@ Pay-as-you-go; similar to today’s Uber/Lyft offerings. The primary components 
 The primary components of the cost model would include vehicle costs associated with acquiring/financing the vehicle, depreciation, insurance, fuel, maintenance costs. Note that this does not include R&D costs.
 
 **Key Companies: Waymo, Cruise, Uber, Lyft, Zoox**
+
+---
 
 <h4><strong>Logistics:</strong></h4>
 
@@ -49,6 +53,8 @@ Depends if fleet is owned or sold individually. If the fleet is owned, refer to 
 
 **Key Companies: Starsky Robotics, Embark, Waymo, Tesla, Uber**
 
+---
+
 <h4><strong>Last Mile Delivery:</strong></h4>
 
 **Autonomous Readiness:** 
@@ -68,6 +74,8 @@ Likely charging a flat or dynamic fee per delivery
 Depends if fleet is owned or sold individually. If the fleet is owned, refer to the ridesharing cost model. If it is sold individually, the primary costs are vehicle costs associated with building the vehicle. The customer who acquires the autonomous truck would likely bear costs related to depreciation, insurance, fuel and maintenance.
 
 **Key Companies: Nuro, Udelv, Starship Technologies**
+
+---
 
 <h4><strong>Licensing:</strong></h4>
 
@@ -89,6 +97,8 @@ Very little costs related to licensing, thus it is a high margin model
 
 **Key Companies: Waymo**
 
+---
+
 <h4><strong>Shuttle Services:</strong></h4>
 
 **Autonomous Readiness:**
@@ -108,6 +118,8 @@ Unclear
 Depends if fleet is owned or sold individually. If the fleet is owned, refer to the ridesharing cost model. If it is sold individually, the primary costs are vehicle costs associated with building the vehicle. The customer who acquires the autonomous shuttle would likely bear costs related to depreciation, insurance, fuel and maintenance.
 
 **Key Companies: Navya, Drive.ai**
+
+---
 
 <h4><strong>Fundamental Metrics to Track:</strong></h4>
 
