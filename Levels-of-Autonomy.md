@@ -3,6 +3,8 @@ layout: page
 title: Levels of Autonomy
 ---
 
+![Levels-of-Autonomy](/assets/pictures/Levels-of-Autonomy.jpg){:class="img-responsive"}*Summary of SAE Classifications for Levels of Automation*
+
 **Who defined the autonomous vehicle levels?**
 
 The Society of Automotive Engineers (SAE) International, an organization with automotive experts around the world, developed a classification system for defining driving automation for motor vehicles in January 2014. This classification system for driver-less cars was adopted by the U.S. Development of Transportation and the United Nations.
