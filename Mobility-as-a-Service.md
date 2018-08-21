@@ -7,8 +7,10 @@ title: Mobility as a Service
 
 Mobility-as-a-Service represents a shift from personally owned modes of transportation and towards transportation that is offered as a service by companies. It is an advancement of current thinking using a combination of the Internet, scaling network models and more technologically advanced methods of transportation to improve current transportation offerings.
 
-##**Potential AV(Autonomous Vehicles) Business Models**
-###**Ridesharing/Taxis:**
+**##Potential AV(Autonomous Vehicles) Business Models##**
+
+**Ridesharing/Taxis:**
+
 **Autonomous Readiness:**
 
 Very close, (next few years); Waymo has operated its Early Rider Program in Phoenix since April 2017 and has not had any incidents. Many AV companies are also testing on urban streets in the California, Arizona and Michigan to name a few. Companies are likely targeting the most difficult use case first to prove AVs will be a reality.
