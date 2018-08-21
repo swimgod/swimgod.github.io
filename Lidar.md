@@ -1,5 +1,5 @@
 ---
-type: page
+layout: page
 title: LiDAR
 ---
 
