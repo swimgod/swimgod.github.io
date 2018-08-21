@@ -7,9 +7,9 @@ title: Mobility as a Service
 
 Mobility-as-a-Service represents a shift from personally owned modes of transportation and towards transportation that is offered as a service by companies. It is an advancement of current thinking using a combination of the Internet, scaling network models and more technologically advanced methods of transportation to improve current transportation offerings.
 
-**Potential AV(Autonomous Vehicles) Business Models**
+<h2><strong>Potential AV(Autonomous Vehicles) Business Models</strong></h2>
 
-**Ridesharing/Taxis:**
+<h3><strong>Ridesharing/Taxis:</strong></h3>
 
 **Autonomous Readiness:**
 
@@ -29,7 +29,7 @@ The primary components of the cost model would include vehicle costs associated 
 
 **Key Companies: Waymo, Cruise, Uber, Lyft, Zoox**
 
-**Logistics:**
+<h3><strong>Logistics:</strong></h3>
 
 **Autonomous Readiness:** 
 
@@ -49,7 +49,7 @@ Depends if fleet is owned or sold individually. If the fleet is owned, refer to 
 
 **Key Companies: Starsky Robotics, Embark, Waymo, Tesla, Uber**
 
-**Last Mile Delivery:**
+<h3><strong>Last Mile Delivery:</strong></h3>
 
 **Autonomous Readiness:** 
 
