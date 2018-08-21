@@ -28,12 +28,12 @@ navbar-links:
     - History of Autonomous Vehicles: "History-of-Autonomous-Driving"
     - Levels of Autonomy: "Levels-of-Autonomy"
     - Mobility as a Service: "Mobility-as-a-Service"    
-  Sensors for Autonomous Driving: 
+  Sensors: 
     - Lidar:
     - Radar:
     - Cameras:
     - Ultrasonic:
-  Core Components of Autonomous Driving: 
+  Core Components: 
     - Computer Vision:
     - Sensor Fusion:
     - Localization:
