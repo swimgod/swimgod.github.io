@@ -787,6 +787,11 @@ td.gutter {
 body{
     text-align: justify;
 }
-img + em{
-    align-content: center;
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+em{
+    text-align: center;
 }
