@@ -34,12 +34,12 @@ navbar-links:
         - Cameras: "Cameras"
         - Ultrasonic: "Ultrasonic"
     Core Components: 
-        - Computer Vision: 
-        - Sensor Fusion:
-        - Localization:
-        - Path Planning:
-        - Control:
-    V2X: 
+        - Computer Vision: "Computer-Vision"
+        - Sensor Fusion: "Sensor-Fusion"
+        - Localization: "Localization"
+        - Path Planning: "Path-Planning"
+        - Control: "Control"
+    V2X: "V2X"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
