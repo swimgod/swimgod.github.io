@@ -1,6 +1,6 @@
 ---
+layout: page
 title: Levels of Autonomy
-permalink: /levels-of-autonomy/
 ---
 
 Who defined the autonomous vehicle levels?
