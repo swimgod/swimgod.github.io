@@ -7,9 +7,9 @@ title: Mobility as a Service
 
 Mobility-as-a-Service represents a shift from personally owned modes of transportation and towards transportation that is offered as a service by companies. It is an advancement of current thinking using a combination of the Internet, scaling network models and more technologically advanced methods of transportation to improve current transportation offerings.
 
-<h2><strong>Potential AV(Autonomous Vehicles) Business Models</strong></h2>
+<h3><strong>Potential AV(Autonomous Vehicles) Business Models:</strong></h3>
 
-<h3><strong>Ridesharing/Taxis:</strong></h3>
+<h4><strong>Ridesharing/Taxis:</strong></h4>
 
 **Autonomous Readiness:**
 
@@ -29,7 +29,7 @@ The primary components of the cost model would include vehicle costs associated 
 
 **Key Companies: Waymo, Cruise, Uber, Lyft, Zoox**
 
-<h3><strong>Logistics:</strong></h3>
+<h4><strong>Logistics:</strong></h4>
 
 **Autonomous Readiness:** 
 
@@ -49,7 +49,7 @@ Depends if fleet is owned or sold individually. If the fleet is owned, refer to 
 
 **Key Companies: Starsky Robotics, Embark, Waymo, Tesla, Uber**
 
-<h3><strong>Last Mile Delivery:</strong></h3>
+<h4><strong>Last Mile Delivery:</strong></h4>
 
 **Autonomous Readiness:** 
 
@@ -69,7 +69,7 @@ Depends if fleet is owned or sold individually. If the fleet is owned, refer to 
 
 **Key Companies: Nuro, Udelv, Starship Technologies**
 
-**Licensing:**
+<h4><strong>Licensing:</strong></h4>
 
 **Autonomous Readiness:**
 
@@ -89,7 +89,7 @@ Very little costs related to licensing, thus it is a high margin model
 
 **Key Companies: Waymo**
 
-**Shuttle Services:**
+<h4><strong>Shuttle Services:</strong></h4>
 
 **Autonomous Readiness:**
 
@@ -109,7 +109,7 @@ Depends if fleet is owned or sold individually. If the fleet is owned, refer to 
 
 **Key Companies: Navya, Drive.ai**
 
-**Fundamental Metrics to Track:**
+<h4><strong>Fundamental Metrics to Track:</strong></h4>
 
 1. **Fleet Size:** scaling fleet size is a key revenue driver
 
