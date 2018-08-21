@@ -21,22 +21,22 @@ Ridesharing will likely be deployed city to city after a company has completed e
 
 Pay-as-you-go; similar to today’s Uber/Lyft offerings. The primary components of ridesharing business model generally include a flat fare in addition to a distance and time cost with a potential multiplier for surge pricing. In an autonomous world, I anticipate the revenue model to have a similar revenue model.
 
-Cost Model: 
+**Cost Model:** 
 
 The primary components of the cost model would include vehicle costs associated with acquiring/financing the vehicle, depreciation, insurance, fuel, maintenance costs. Note that this does not include R&D costs.
 
-Key Companies: Waymo, Cruise, Uber, Lyft, Zoox
+**Key Companies: Waymo, Cruise, Uber, Lyft, Zoox**
 
-Logistics:
-Autonomous Readiness: 
+###**Logistics:**
+**Autonomous Readiness:** 
 
 Close (few years out); logistics (transportation of goods/services) is still a couple years out as AV companies have demonstrated they are more focused on ridesharing. Solving the logistics problem is deemed easier than ridesharing because it involves primarily highway driving, which is more predictable than urban driving. AV companies currently focused on autonomous trucks have received very little funding compared to those focused on ridesharing.
 
-Deployment: 
+**Deployment:** 
 
 AV companies are creating retrofitted trucks and can likely be deployed quickly for highway driving. The limitation is last mile delivery where the truck will face urban environments after exiting the highway, which is more difficult with the truck’s size. However, AV companies are using teleoperations to remotely control trucks in case the trucks run into any issues.
 
-Revenue Model: 
+**Revenue Model:** 
 
 Unclear, likely charging a fee per delivery based on weight and delivery time
 
