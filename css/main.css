@@ -796,13 +796,7 @@ em{
     text-align: center;
 }
 
-.container {
-  background: url('{{ site.baseurl }}/assets/pictures/front_page_background_pic.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 
 .navlinks-parent{
     cursor:default;
