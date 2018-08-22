@@ -812,8 +812,12 @@ em{
     color: white;
     padding-top: 100px;
 }
-.headliner{
+.caption-1{
     text-align: center;
     padding-bottom: 50px;
     color:white;
+}
+.caption-2{
+    text-align: center;
+    padding-bottom: 50px;
 }
