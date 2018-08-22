@@ -17,7 +17,7 @@
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
-        {% if link[1].first %}
+        <!--for each parent link, check to see if link[1] is first element in array link -->  
           <li class="navlinks-container">
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
             <div class="navlinks-children">
@@ -28,7 +28,6 @@
               {% endfor %}
             </div>
           </li>
-        {% else %}
           <li>
             {% include navbarlink.html link=link %}
           </li>
