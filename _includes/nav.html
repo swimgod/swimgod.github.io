@@ -18,12 +18,12 @@
       <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
         <!--for each parent link, check to see if link[1] is first element in array link -->  
-        <!--{% if link[1].first %}-->
+        
         <li>
             {% include navbarlink.html link=link %}
         </li>
+          {% if link[1].first %}
           <li class="navlinks-container">
-            
             <!--<a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>-->
             <div class="navlinks-children">
               {% for childlink in link[1] %}
