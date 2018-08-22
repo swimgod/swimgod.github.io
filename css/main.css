@@ -795,15 +795,13 @@ img{
 em{
     text-align: center;
 }
-
-.front-page-image {
-  background: url('{{ site.baseurl }}/assets/pictures/front_page_background_pic.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 .navlinks-parent{
     cursor:default;
+}
+.front-page-image{
+    background-image:url("/assets/pictures/front_page_background_pic.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    position: relative;
 }
