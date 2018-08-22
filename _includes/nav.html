@@ -16,8 +16,8 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
+          <!--for each parent link, check to see if link[1] is first element in array link -->  
       {% for link in site.navbar-links %}
-        <!--for each parent link, check to see if link[1] is first element in array link -->  
           
           {% if link[1].first %}
           <li class="navlinks-container">
