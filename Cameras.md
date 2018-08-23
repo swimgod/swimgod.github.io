@@ -32,3 +32,5 @@ How a Camera Works: A camera uses its lens, a curved piece of plastic or glass a
 **3. Traffic Sign Recognition (TSR):** current systems recognize speed limits and various limited subset of signs. Future systems need to understand supplemental signs and context, (Speed limit in effect 10am to 8pm”) detect traffic signals to adapt ACC , stop, slow down etc.
 
 **4. Lane Keep Systems (LKS):** currently detect lane markings, future systems need to detect drivable surface, adapt to construction signs and multiple lane markings.
+
+![camera_1](/assets/pictures/camera_1.jpg){:class="img-responsive"}*At any point in time, the 2D scene is an image with a large array of values for individual pixels. These pixels are read in on the RGB color scale (3 values for red, green and blue) and can be converted to other color scales such as HSV or HSL to allow data to be interpreted in different ways and used for image classification.*

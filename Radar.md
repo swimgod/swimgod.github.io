@@ -29,3 +29,6 @@ A radar instrument shoots out radio waves to detect objects and determine their 
 
 There are 3 types of radar sensors, that can be classified per their operating distance ranges: Short Range Radar (SRR) 0.2 to 30m range, Medium Range Radar (MRR) in the 30-80m range and Long Range Radar (LRR) 80m up to 300m range.
 
+![radar_1](/assets/pictures/radar_1.jpg){:class="img-responsive"}*Here is Bosch’s LLR4 long range radar sensor released in 2017. Because radars have been widely used, the current product as you can see is extremely compact and robust in addition to being low-cost.*
+
+![radar_2](/assets/pictures/radar_2.png){:class="img-responsive"}*A visual representation of a radar sensor output.*
