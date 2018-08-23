@@ -41,6 +41,8 @@ This is a little bit on the technical side, but I do think it is interesting to 
 
 **Path Planning Considerations**
 
-1. Data Collection: what data to collect from sensors?
-2. Data Cleaning: what details are relevant to the problem?
-3. Prediction Steps: how to navigate uncertainty around environment prediction and behavior planning?
+**1. Data Collection:** what data to collect from sensors?
+
+**2. Data Cleaning:** what details are relevant to the problem?
+
+**3. Prediction Steps:** how to navigate uncertainty around environment prediction and behavior planning?
