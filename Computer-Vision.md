@@ -19,7 +19,7 @@ Computer vision can be broken down into three stages:
 
 The goal with computer vision is essentially to emulate a human’s ability to perceive, process and analyze images.
 
-![computer_vision_1](/assets/pictures/computer_vision_1.jpg){:class="img-responsive"}*Vehicle from Cruise with sensor suite used for image acquisition*
+![computer_vision_1](/assets/pictures/computer_vision_1.png){:class="img-responsive"}*Vehicle from Cruise with sensor suite used for image acquisition*
 
 **Image Acquisition**
 
