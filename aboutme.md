@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-2
 title: About Us
 
 ---

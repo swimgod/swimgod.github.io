@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-2
 title: History of Autonomous Driving
 ---
 ![GM-Futurama-Exhibit](/assets/pictures/GM_Futurama_Exhibit.jpg){:class="img-responsive"}*1939: GM’s Futurama exhibit, an 18-minute ride carrying 500+ riders through a 1/3 mile course showcasing an automated highway system envisioned 20 years forward*
