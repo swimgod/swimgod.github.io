@@ -822,6 +822,5 @@ em{
     padding-bottom: 50px;
 }
 .core-components{
-    display:block;
-    margin:auto;
+  text-align: center;
 }
