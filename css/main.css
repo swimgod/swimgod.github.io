@@ -820,9 +820,14 @@ em{
     text-align: center;
     padding-bottom: 50px;
 }
+
+@media only screen and (min-width: 768px){
+    .core-components{
+    width: 100%;
+}
+}
 .core-components{
-    text-align: center;
-    width: 50%;
+    width: 70%;
 }
 .front-page-text{
     text-align: center;
