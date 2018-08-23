@@ -3,6 +3,8 @@ layout: page-2
 title: Localization
 ---
 
+![localization_1](/assets/pictures/localization_1.jpg){:class="img-responsive"}*Autonomous vehicle localizing itself using pre-built 3D maps and its sensor data*
+
 **Definition:**
 
 Localization is the process of determining the exact position of an autonomous vehicle in relation to its surroundings.
@@ -22,6 +24,8 @@ No we cannot. GPS is the most common system for localization used today, but it 
 Localization today generally uses pre-built maps created using a mapping vehicle driving down the road with a sensor suite to build a HD map of the environment. These maps must be accurate down to the centimeter, which as we discussed earlier is necessary for safe autonomous driving. The 3-D HD model is loaded into the AV system, which provides the autonomous vehicle with a baseline understanding of the environment it will be navigating around. In the scenario that the AV does not have a map to work off, it must rely on a technique called Simultaneous Localization and Mapping (SLAM).
 
 However, to my knowledge, all autonomous driving companies that are being tested today have mapped pre-defined regions that they are testing their cars. AVs today struggle with real-time sensing and perception, which is computationally complex and puts an enormous computational burden on the “brain” of the car. Therefore, companies today use pre-mapped environments within their AV systems, an important point to understand.
+
+![localization_2](/assets/pictures/localization_2.png){:class="img-responsive"}*HD Live Map created by HERE Technologies, a company providing critical mapping and location data to individuals and companies*
 
 **Mapping**
 
