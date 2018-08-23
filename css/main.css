@@ -821,3 +821,7 @@ em{
     text-align: center;
     padding-bottom: 50px;
 }
+.core-components{
+    display:block;
+    margin:auto;
+}
