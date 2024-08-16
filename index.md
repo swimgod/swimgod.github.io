@@ -1,13 +1,8 @@
 ---
-layout: single
-author_profile: true
-title: Projects
+title: Home
+layout: home
 ---
-
-{% for post in site.posts %}
-  <article>
-    <h4>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h4>
-  </article>
-{% endfor %}
+Gary Fong
+- [Email](mailto:garyj.fong@gmail.com)
+- [Github](https://github.com/swimgod)
+- [LinkedIn](https://www.linkedin.com/in/gary-j-fong/)
