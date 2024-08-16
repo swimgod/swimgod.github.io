@@ -1,10 +1,9 @@
 ---
 title: "Windwalker"
-date: 2024-08-14
 layout: home
-project_name: "Windwalker"
 has_children: true
 has_toc: false
+nav_order: 1
 ---
 
 # **Windwalker**
@@ -24,3 +23,6 @@ Windwalker is a 3d turn-based RPG where players collect loot from combat and oth
     - Steam Cloud
 - **UI/UX Design**
     - Figma
+- **Team**
+    - [Paul An](https://www.linkedin.com/in/cspaulan/)
+    - [Gary Fong](https://www.linkedin.com/in/gary-j-fong/)
