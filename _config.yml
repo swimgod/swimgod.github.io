@@ -6,8 +6,11 @@ mermaid:
   version: "9.1.3"
 heading_anchors: true
 color_scheme: light
+favicon_ico: "/assets/github-brands-solid.svg"
 
-# aux_links:
+projects:
+  windwalker: "2022-2023 Windwalker"
+  factory_reset: "2021 Factory Reset"
 
 author:
   name             : "Gary Fong"

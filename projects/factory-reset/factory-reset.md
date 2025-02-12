@@ -1,5 +1,5 @@
 ---
-title: "Factory Reset"
+title: "2021 Factory Reset"
 layout: home
 has_children: true
 has_toc: false
@@ -7,6 +7,10 @@ nav_order: 2
 ---
 
 # **Factory Reset**
+## Concept to Creation
+This game was part of a 2 week game jam. Paul, our game designer wanted to build some sort of ARPG and get our feet wet with developing the genre. After back and forth conversations with our team members, we decided on a steampunk flavor and began developing! This was the first game jam for most of our team, so it was a bit of chaos working together.
+
+## Lore
 A steampunk ARPG, Path of Exile style game. Play as Rusty, explore the garden, workshop, and make your way through a series of enemies, and test your skills against the final boss, Hammercrank!
 
 Item drops are randomized, you have a 50-50 chance of getting either a sword or musket, with differing rarities (W,G,B,PRP,GOLD), as well as a item level that adjusts stat values of that item. 
