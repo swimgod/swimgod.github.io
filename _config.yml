@@ -2,28 +2,6 @@ title: Assortment of Projects
 description: Technical/Non-Technical documentation for various projects
 theme: just-the-docs
 url: https://swimgod.github.io
-mermaid:
-  version: "9.1.3"
+
 heading_anchors: true
 color_scheme: light
-favicon_ico: "/assets/github-brands-solid.svg"
-
-projects:
-  windwalker: "2022-2023 Windwalker"
-  factory_reset: "2021 Factory Reset"
-
-author:
-  name             : "Gary Fong"
-  avatar           : "/assets/images/avatar.jpg"
-  bio              : "On the grind"
-  location         : "Los Angeles, California"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:garyj.fong@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/swimgod"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/gary-j-fong/"
