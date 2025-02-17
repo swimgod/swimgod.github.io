@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Skills
-parent: "2021-2023 Windwalker"
 ---
 ### Skills
 

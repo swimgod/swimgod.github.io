@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Jobs
-parent: "2021-2023 Windwalker"
 ---
 ### Jobs
 

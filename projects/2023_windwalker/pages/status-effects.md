@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Status Effects
-parent: "2021-2023 Windwalker"
 ---
 ### Status Effects
 

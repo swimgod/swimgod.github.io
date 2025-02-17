@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Unity Addressable Assets and Scriptable Objects
-parent: "2021-2023 Windwalker"
 ---
 
 ### Unity Addressable Assets and Scriptable Objects:

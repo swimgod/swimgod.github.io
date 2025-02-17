@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Data Persistence
-parent: "2021-2023 Windwalker"
 ---
 ### Data Persistence
 

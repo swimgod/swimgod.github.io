@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Stat Modifiers
-parent: "2021-2023 Windwalker"
 ---
 ### Stat Modifiers
 

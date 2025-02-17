@@ -5,3 +5,24 @@ url: https://swimgod.github.io
 
 heading_anchors: true
 color_scheme: light
+
+defaults:
+  - scope:
+      path: projects/2023_windwalker/pages
+      type: pages
+    values:
+      parent: 2021-2023 Windwalker
+      layout: default
+  - scope:
+      path: projects/*/index.md
+      type: pages
+    values:
+      layout: home
+      has_toc: false
+      has_children: true
+      nav_order: reversed
+
+author:
+  email: garyj.fong@gmail.com
+  github: https://github.com/swimgod
+  linkedin: https://www.linkedin.com/in/gary-j-fong/

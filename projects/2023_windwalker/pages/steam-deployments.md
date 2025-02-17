@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Steam Deployments
-parent: "2021-2023 Windwalker"
 ---
 ### Steam Deployments:
 
